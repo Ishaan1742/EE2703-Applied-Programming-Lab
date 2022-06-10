@@ -1,0 +1,15 @@
+There could be junk here!
+Since this portion does not belong to circuit definition.
+.circuit
+R1 N001 N005 10
+R2 N001 N002 30
+R3 N002 N0 15
+R4 N003 N0 40
+R5 N005 N0 25
+V1 N001 N0 10
+I1 N003 N002 15
+G1 N0 N004 N002 N0 10
+R6 N004 N0 5
+.end
+There could be junk here!
+Since this portion does not belong to circuit definition.
